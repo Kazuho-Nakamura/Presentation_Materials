@@ -55,12 +55,6 @@ transition : "default"
 会社に入ってから学べる
 
 --
-
-### 学生でしかできないこと沢山あった
-- 外国語
-- バイト
-
---
 ## Connecting The Dots
 (点と点をつなぐ)
 
