@@ -31,6 +31,7 @@ transition : "default"
 - <p class="fragment current-visible">ソフトウェアを作れる会社</p>
 - <p class="fragment current-visible">いろんなことに挑戦できる企業</p>
 - <p class="fragment current-visible">ある程度、自由な格好で仕事できる</p>
+- <p class="fragment current-visible">高専生のファンである企業</p>
 
 ---
 
@@ -38,6 +39,12 @@ transition : "default"
 - インターネットバンキングサイトの開発(C#,JS)
 - CI/CDの設定
 - インフラ構築(kubernetes)
+---
+
+## 社会人になって頑張ったこと
+- <p class="fragment current-visible">コミュニケーション</p>
+- <p class="fragment current-visible">Coding</p>
+- <p class="fragment current-visible">最新技術の習得</p>
 
 ---
 
@@ -62,10 +69,6 @@ transition : "default"
 ## 他の学生と比べて高専生の強味
 - <p class="fragment current-visible">技術知識の習得に貪欲</p>
 - <p class="fragment current-visible">気合と根性</p>
-
----
-
-## 会社に入ってからがスタート！
 
 ---
 
