@@ -22,7 +22,14 @@ transition : "default"
 - 成績は良くなかった
 - テストの順位は大体、半分より下  
 - コードもそんなに書けなかった
-- 最新の技術には興味があった
+
+---
+
+## 高専でやっててよかったこと
+- ほぼ全部  
+
+--
+## 最新の技術が大好き
 
 ---
 
@@ -46,23 +53,21 @@ transition : "default"
 - <p class="fragment current-visible">Coding</p>
 - <p class="fragment current-visible">最新技術の習得</p>
 
+--
+
+## 会社に入ってからの仕事は  
+## 会社に入ってから学べる
+
 ---
 
-## 学校でやっててよかったこと
-- ほぼ全部  
-  
-会社に入ってからの仕事は  
-会社に入ってから学べる
+## 高専生の強み
+- <p class="fragment current-visible">入社後の立ち上がりが早い</p>
+- <p class="fragment current-visible">技術知識の習得に貪欲</p>
+- <p class="fragment current-visible">気合と根性</p>
 
 --
 ## Connecting The Dots
 (点と点をつなぐ)
-
----
-
-## 他の学生と比べて高専生の強味
-- <p class="fragment current-visible">技術知識の習得に貪欲</p>
-- <p class="fragment current-visible">気合と根性</p>
 
 ---
 
