@@ -2,7 +2,7 @@
 theme : "black"
 transition : "default"
 ---
-## OBによる就活対策セミナー
+## 自己紹介
 株式会社FIXER 中村 一穂  
 [Twitter](https://twitter.com/ItNkmrkzh)/
 [Facebook](https://www.facebook.com/profile.php?id=100006560948655])/
@@ -11,10 +11,10 @@ transition : "default"
 ---
 
 # 現在の私
-<p class="fragment current-visible">都内住み</p>
-<p class="fragment current-visible">猫を飼う</p>
-<p class="fragment current-visible">インターネットバンキングの開発</p>
-<p class="fragment current-visible">外国人と仕事する</p>
+<p class="fragment grow">都内住み</p>
+<p class="fragment grow">猫を飼う</p>
+<p class="fragment grow">インターネットバンキングの開発</p>
+<p class="fragment grow">外国人と仕事する</p>
 
 --
 
@@ -25,8 +25,8 @@ transition : "default"
 
 ---
 
-## 高専でやっててよかったこと
-- ほぼ全部  
+## 高専でやっててよかった
+- <p class="fragment current-visible">高専での経験は裏切らない</p>
 
 --
 ## 最新の技術が大好き
@@ -34,11 +34,11 @@ transition : "default"
 ---
 
 ## 企業探しで重視したところ
-- <p class="fragment current-visible">給料</p>
-- <p class="fragment current-visible">ソフトウェアを作れる会社</p>
-- <p class="fragment current-visible">いろんなことに挑戦できる企業</p>
-- <p class="fragment current-visible">ある程度、自由な格好で仕事できる</p>
-- <p class="fragment current-visible">高専生のファンである企業</p>
+- <p class="fragment grow">給料</p>
+- <p class="fragment grow">ソフトウェアを作れる会社</p>
+- <p class="fragment grow">いろんなことに挑戦できる企業</p>
+- <p class="fragment grow">ある程度、自由な格好で仕事できる</p>
+- <p class="fragment grow">高専生のファンである企業</p>
 
 ---
 
@@ -49,9 +49,9 @@ transition : "default"
 ---
 
 ## 社会人になって頑張ったこと
-- <p class="fragment current-visible">コミュニケーション</p>
-- <p class="fragment current-visible">Coding</p>
-- <p class="fragment current-visible">最新技術の習得</p>
+- <p class="fragment grow">コミュニケーション</p>
+- <p class="fragment grow">Coding</p>
+- <p class="fragment grow">最新技術の習得</p>
 
 --
 
@@ -61,9 +61,9 @@ transition : "default"
 ---
 
 ## 高専生の強み
-- <p class="fragment current-visible">入社後の立ち上がりが早い</p>
-- <p class="fragment current-visible">技術知識の習得に貪欲</p>
-- <p class="fragment current-visible">気合と根性</p>
+- <p class="fragment grow">入社後の立ち上がりが早い</p>
+- <p class="fragment grow">技術知識の習得に貪欲</p>
+- <p class="fragment grow">気合と根性</p>
 
 --
 ## Connecting The Dots
