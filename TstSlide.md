@@ -1,12 +1,13 @@
 ---
-theme : "black"
-transition : "default"
+theme : "white"
+transition : "zoom"
+highlightTheme: "darkula"
 ---
-## 自己紹介
+# 自己紹介
 株式会社FIXER 中村 一穂  
-[Twitter](https://twitter.com/ItNkmrkzh)/
+<small>[Twitter](https://twitter.com/ItNkmrkzh)/
 [Facebook](https://www.facebook.com/profile.php?id=100006560948655])/
-[GitHub](https://github.com/nakamura-kazuho-fixer)
+[GitHub](https://github.com/nakamura-kazuho-fixer)</small>
 
 ---
 
@@ -20,20 +21,21 @@ transition : "default"
 
 # 高専時代の私
 - 成績は良くなかった
-- テストの順位は大体、半分より下  
+- テスト順位は大体、半分より下  
 - コードもそんなに書けなかった
 
 ---
 
-## 高専でやっててよかった
+## 高専に行っててよかった
 - <p class="fragment current-visible">高専での経験は裏切らない</p>
 
 --
+
 ## 最新の技術が大好き
 
 ---
 
-## 企業探しで重視したところ
+## 企業探しで重視したとこ
 - <p class="fragment grow">給料</p>
 - <p class="fragment grow">ソフトウェアを作れる会社</p>
 - <p class="fragment grow">いろんなことに挑戦できる企業</p>
@@ -45,17 +47,19 @@ transition : "default"
 ## 私のFIXERでの仕事内容
 - インターネットバンキングサイトの開発(C#,JS)
 - CI/CDの設定
-- インフラ構築(kubernetes)
+- インフラ構築(Kubernetes)
+
 ---
 
-## 社会人になって頑張ったこと
+## 入社後に頑張ったこと
 - <p class="fragment grow">コミュニケーション</p>
 - <p class="fragment grow">Coding</p>
 - <p class="fragment grow">最新技術の習得</p>
 
 --
 
-## 会社に入ってからの仕事は  
+## 会社に入ってからの仕事
+## は  
 ## 会社に入ってから学べる
 
 ---
@@ -66,6 +70,7 @@ transition : "default"
 - <p class="fragment grow">気合と根性</p>
 
 --
+
 ## Connecting The Dots
 (点と点をつなぐ)
 
